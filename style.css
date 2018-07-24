@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    -webkit-text-fill-color: rebeccapurple;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+img {
+    margin-left: 25%;
+    border-image: black, 4px;
+    border-radius: 8px;
+}
