@@ -9,8 +9,8 @@ p {
     font-style: italic;
 }
 img {
-    margin-left: 25%;
-    border-image: black, 4px;
+    height: 250px;
+    width: 100%;
     border-radius: 8px;
 }
 
