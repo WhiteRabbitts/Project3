@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     -webkit-text-fill-color: rebeccapurple;
+    font-family: 'Faster One', cursive;
 }
 
 p {
@@ -11,4 +12,30 @@ img {
     margin-left: 25%;
     border-image: black, 4px;
     border-radius: 8px;
+}
+
+#title {
+    text-align: center;
+    -webkit-text-fill-color: rebeccapurple;
+    font-family: 'Faster One', cursive;
+    font-size: 50px;
+}
+
+#intro {
+    text-align: center;
+    color: green;
+}
+
+#login {
+    text-align: center;
+    color: green;
+    font-size: 25px;
+}
+
+#parkchoice {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(201, 196, 196);
 }
